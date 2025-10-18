@@ -37,9 +37,9 @@ Charlotte Fallon - Neurodivergent founder (ADHD/autism/dyslexia) building AI aut
 
 ## The Repositories
 
-- **[charlotte-claude-plugins](https://github.com/charlotte-ai/charlotte-claude-plugins)** - Claude Code plugins & slash commands
-- **[automation-workflows](https://github.com/charlotte-ai/automation-workflows)** - Workflow templates & blueprints
-- **[knowledge-base](https://github.com/charlotte-ai/knowledge-base)** - Public knowledge & frameworks
+- **[charlotte-claude-plugins](https://github.com/fallon-ai/charlotte-claude-plugins)** - Claude Code plugins & slash commands
+- **[automation-workflows](https://github.com/fallon-ai/automation-workflows)** - Workflow templates & blueprints
+- **[knowledge-base](https://github.com/fallon-ai/knowledge-base)** - Public knowledge & frameworks
 - **This repo** - Journey documentation, learning in public
 
 ## North Star Question
